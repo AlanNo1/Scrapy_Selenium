@@ -1,0 +1,2 @@
+# Scrapy_Selenium
+Scrapy和Selenium结合的通用爬虫模块，使用Excel配置需要爬取的URL和字段XPATH，利用pandas库操作Excel去重，最后把爬取的字段信息都保存到Excel中。
