@@ -1,0 +1,4 @@
+[本田CR]
+#定义爬取的页面
+PageUrl = https://club.autohome.com.cn/bbs/forum-c-314-1.html#pvareaid=3454448
+TitleXpath = //*[@id="app"]/div[2]/ul[2]/li[10]
